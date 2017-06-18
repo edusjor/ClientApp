@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detall_cita_con_morosidad.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_detall_cita_con_morosidad.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_citas_con_morosidad.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_citas_con_morosidad.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_buscar_dr.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\app_bar_buscar_dr.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\d1770d397c3058186a926513b62055c3e96c8052\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\d1770d397c3058186a926513b62055c3e96c8052\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calificar_dr.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_calificar_dr.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_buscar_dr.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_buscar_dr.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\d1770d397c3058186a926513b62055c3e96c8052\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reservar_cita.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_reservar_cita.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_todas_las_citas.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_todas_las_citas.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_citas_dispon_del_dr.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_citas_dispon_del_dr.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_codigo_qr.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_codigo_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_log_in.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_log_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_menu.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\content_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detall_cita_reservada.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_detall_cita_reservada.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_fragment.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\search_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\d1770d397c3058186a926513b62055c3e96c8052\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\d1770d397c3058186a926513b62055c3e96c8052\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detall_cita_pend.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_detall_cita_pend.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mostrar_citas_pendientes.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_mostrar_citas_pendientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dir_ip.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_dir_ip.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_citas_pendientes.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_citas_pendientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_menu.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\app_bar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\d1770d397c3058186a926513b62055c3e96c8052\\output\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_seleccionar_fecha.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_seleccionar_fecha.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\d1770d397c3058186a926513b62055c3e96c8052\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\d1770d397c3058186a926513b62055c3e96c8052\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\d1770d397c3058186a926513b62055c3e96c8052\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_menu.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\nav_header_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_buscar_dr.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\content_buscar_dr.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detall_cita_finalizada.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_detall_cita_finalizada.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\d1770d397c3058186a926513b62055c3e96c8052\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_grabar_sintomas.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_grabar_sintomas.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detall_cita_pagada.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_detall_cita_pagada.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comentarios_calificacion.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_comentarios_calificacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\d1770d397c3058186a926513b62055c3e96c8052\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\edojs\\AndroidStudioProjects\\ClientApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\edojs\\.android\\build-cache\\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    }
+]

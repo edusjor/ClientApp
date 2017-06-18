@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.edus.clientapp">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id"/>
+
+        <activity android:name=".Activities.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activities.MenuActivity"
+            android:label="@string/title_activity_menu"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".Activities.ReservarCitaActivity"
+            android:label="Reservar Cita"/>
+        <activity
+            android:name=".Activities.MostrarTodasCitasActivity"
+            android:label="Citas "/>
+        <activity
+            android:name=".Activities.TodasLasCitasActivity"
+            android:label="Todas las Citas"/>
+        <activity android:name=".Activities.LogInActivity"/>
+        <activity
+            android:name=".Activities.DetallCitaPendActivity"
+            android:label="Detalle de Cita"/>
+        <activity
+            android:name=".Activities.GrabarSintomasActivity"
+            android:label="Menciones sus sintomas"/>
+        <activity
+            android:name=".Activities.BuscarDrActivity"
+            android:label="Buscar Doctor..."
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".Activities.CitasDisponDelDrActivity"
+            android:label="Citas disponibles del Dr"/>
+        <activity
+            android:name=".Activities.CitasConMorosidadActivity"
+            android:label="Citas Morosas"/>
+        <activity
+            android:name=".Activities.DetallCitaconMorosidadActivity"
+            android:label="Detalles y pago de cita morosa"/>
+        <activity android:name=".Activities.CodigoQRActivity"/>
+        <activity android:name=".Activities.DirIpActivity">
+        </activity>
+        <activity android:name=".Activities.CalificarDrActivity">
+        </activity>
+        <activity android:name=".Activities.GetCitasPendientesActivity">
+        </activity>
+        <activity android:name=".DetallCitaReservadaActivity">
+        </activity>
+        <activity android:name=".DetallCitaFinalizadaActivity">
+        </activity>
+        <activity android:name=".DetallCitaPagadaActivity">
+        </activity>
+        <activity android:name=".ComentariosCalificacionActivity">
+        </activity>
+        <activity android:name=".SeleccionarFechaActivity">
+        </activity>
+    </application>
+
+</manifest>

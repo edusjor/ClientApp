@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ClientApp</string>
+    <string name="title_activity_menu">Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">1319603088076510</string>
+    <string name="error_login">Ocurrion un error al iniciar sesion, intente nuevamente</string>
+    <string name="login_error">Error al iniciar sesion</string>
+
+    // if your App ID is 1234567, you should use fb1234567
+    <string name="fb_login_protocol_scheme">fbAPP_ID</string>
+
+</resources>

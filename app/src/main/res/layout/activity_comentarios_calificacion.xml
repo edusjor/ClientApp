@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.edus.clientapp.ComentariosCalificacionActivity">
+
+
+    <RelativeLayout
+        android:layout_width="441dp"
+        android:layout_height="658dp"
+        tools:layout_editor_absoluteX="-3dp"
+        tools:layout_editor_absoluteY="-3dp">
+
+
+        <TextView
+            android:id="@+id/textViewcalificacion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="51dp"
+            android:text="Calificacion de 1 a 10"/>
+
+        <TextView
+            android:id="@+id/textViewcomentarios"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/editTextcoment"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="47dp"
+            android:text="Digite sus comentarios"/>
+
+        <EditText
+            android:id="@+id/editTextcalif"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textViewcalificacion"
+            android:layout_marginTop="16dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            tools:layout_editor_absoluteX="-76dp"
+            tools:layout_editor_absoluteY="115dp"/>
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="210dp"
+            android:elevation="0dp"
+            android:onClick="irAMenu"
+            android:text="Aceptar"/>
+
+        <EditText
+            android:id="@+id/editTextcoment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/editTextcalif"
+            android:layout_alignStart="@+id/editTextcalif"
+            android:layout_below="@+id/editTextcalif"
+            android:layout_marginTop="72dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            tools:layout_editor_absoluteX="-15dp"
+            tools:layout_editor_absoluteY="-95dp"/>
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

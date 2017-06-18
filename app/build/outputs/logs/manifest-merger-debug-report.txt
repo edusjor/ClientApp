@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:3:11-39
+		INJECTED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:8:5-64
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:10:5-78:19
+MERGED from [com.android.volley:volley:unspecified] C:\Users\edojs\AndroidStudioProjects\ClientApp\volley\build\intermediates\bundles\default\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\edojs\.android\build-cache\d0044cb0561a580714e9d014faab6534a766b937\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\edojs\.android\build-cache\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\edojs\.android\build-cache\3557a656a97e09a8c8347f863c23fa2971bf8741\output\AndroidManifest.xml:26:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\edojs\.android\build-cache\d1770d397c3058186a926513b62055c3e96c8052\output\AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\edojs\.android\build-cache\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\edojs\.android\build-cache\11e3cd37e9dfcbe7f98e4ce24f4bd925eb634d7a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\edojs\.android\build-cache\ec2c2500a5cf7c0c4949b72e96cfe96c9c3c8cda\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\edojs\.android\build-cache\e62373edf49cff2ed3d5e252acc380e2e7bbcb00\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\edojs\.android\build-cache\74b590540ae74f33a291333cbffd7e01f0112dda\output\AndroidManifest.xml:26:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.1] C:\Users\edojs\.android\build-cache\13d0ef86354b367bff2c404d1f43c46d9e34139f\output\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.1] C:\Users\edojs\.android\build-cache\cb05a2b787a6e92ee971acfdcf667acec9859dd4\output\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\edojs\.android\build-cache\64d7a58cecfccc80923bcea8fc380895df9281f3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\edojs\.android\build-cache\6246201c9bc724c7b90a9bdef7c2d37ec133dcc3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\edojs\.android\build-cache\598a7ce2b68687fb7bbb10d266f56ba243e9296a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\edojs\.android\build-cache\9ff4a18d3a3de10f4df83a3d703c5721845aa885\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\edojs\.android\build-cache\1e55acdd799f191ea94f52619b1dc8fb96b4cb1e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\edojs\.android\build-cache\9c564fa0740014774ab5f09e695509c76ffd5511\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:16:9-40
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:17:9-19:54
+	android:value
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:19:13-52
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:18:13-58
+activity#com.edus.clientapp.Activities.MainActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:21:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:23:17-68
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.edus.clientapp.Activities.MenuActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:28:9-31:58
+	android:label
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:30:13-56
+	android:theme
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:29:13-52
+activity#com.edus.clientapp.Activities.ReservarCitaActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:32:9-34:44
+	android:label
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:34:13-42
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:33:13-60
+activity#com.edus.clientapp.Activities.MostrarTodasCitasActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:35:9-37:37
+	android:label
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:37:13-35
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:36:13-65
+activity#com.edus.clientapp.Activities.TodasLasCitasActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:38:9-40:46
+	android:label
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:39:13-61
+activity#com.edus.clientapp.Activities.LogInActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:41:9-61
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:41:19-59
+activity#com.edus.clientapp.Activities.DetallCitaPendActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:42:9-44:46
+	android:label
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:43:13-62
+activity#com.edus.clientapp.Activities.GrabarSintomasActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:45:9-47:53
+	android:label
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:47:13-51
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:46:13-62
+activity#com.edus.clientapp.Activities.BuscarDrActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:48:9-51:58
+	android:label
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:50:13-45
+	android:theme
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:49:13-56
+activity#com.edus.clientapp.Activities.CitasDisponDelDrActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:52:9-54:55
+	android:label
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:54:13-53
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:53:13-64
+activity#com.edus.clientapp.Activities.CitasConMorosidadActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:55:9-57:44
+	android:label
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:57:13-42
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:56:13-65
+activity#com.edus.clientapp.Activities.DetallCitaconMorosidadActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:58:9-60:61
+	android:label
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:60:13-59
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:59:13-70
+activity#com.edus.clientapp.Activities.CodigoQRActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:61:9-64
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:61:19-62
+activity#com.edus.clientapp.Activities.DirIpActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:62:9-63:20
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:62:19-59
+activity#com.edus.clientapp.Activities.CalificarDrActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:64:9-65:20
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:64:19-65
+activity#com.edus.clientapp.Activities.GetCitasPendientesActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:66:9-67:20
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:66:19-72
+activity#com.edus.clientapp.DetallCitaReservadaActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:68:9-69:20
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:68:19-62
+activity#com.edus.clientapp.DetallCitaFinalizadaActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:70:9-71:20
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:70:19-63
+activity#com.edus.clientapp.DetallCitaPagadaActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:72:9-73:20
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:72:19-59
+activity#com.edus.clientapp.ComentariosCalificacionActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:74:9-75:20
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:74:19-66
+activity#com.edus.clientapp.SeleccionarFechaActivity
+ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:76:9-77:20
+	android:name
+		ADDED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml:76:19-59
+uses-sdk
+INJECTED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.volley:volley:unspecified] C:\Users\edojs\AndroidStudioProjects\ClientApp\volley\build\intermediates\bundles\default\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\edojs\.android\build-cache\d0044cb0561a580714e9d014faab6534a766b937\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\edojs\.android\build-cache\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\edojs\.android\build-cache\89c1dd43ccc660bc08901f5bc5513fb4ecd0d43d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\edojs\.android\build-cache\3557a656a97e09a8c8347f863c23fa2971bf8741\output\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\edojs\.android\build-cache\d1770d397c3058186a926513b62055c3e96c8052\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\edojs\.android\build-cache\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\edojs\.android\build-cache\11e3cd37e9dfcbe7f98e4ce24f4bd925eb634d7a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\edojs\.android\build-cache\ec2c2500a5cf7c0c4949b72e96cfe96c9c3c8cda\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\edojs\.android\build-cache\e62373edf49cff2ed3d5e252acc380e2e7bbcb00\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\edojs\.android\build-cache\74b590540ae74f33a291333cbffd7e01f0112dda\output\AndroidManifest.xml:20:5-44
+MERGED from [me.dm7.barcodescanner:zxing:1.9.1] C:\Users\edojs\.android\build-cache\13d0ef86354b367bff2c404d1f43c46d9e34139f\output\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.1] C:\Users\edojs\.android\build-cache\cb05a2b787a6e92ee971acfdcf667acec9859dd4\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\edojs\.android\build-cache\64d7a58cecfccc80923bcea8fc380895df9281f3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\edojs\.android\build-cache\6246201c9bc724c7b90a9bdef7c2d37ec133dcc3\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\edojs\.android\build-cache\598a7ce2b68687fb7bbb10d266f56ba243e9296a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\edojs\.android\build-cache\9ff4a18d3a3de10f4df83a3d703c5721845aa885\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\edojs\.android\build-cache\1e55acdd799f191ea94f52619b1dc8fb96b4cb1e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\edojs\.android\build-cache\9c564fa0740014774ab5f09e695509c76ffd5511\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\edojs\.android\build-cache\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\edojs\AndroidStudioProjects\ClientApp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\edojs\.android\build-cache\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\edojs\.android\build-cache\89c1dd43ccc660bc08901f5bc5513fb4ecd0d43d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\edojs\.android\build-cache\3557a656a97e09a8c8347f863c23fa2971bf8741\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\edojs\.android\build-cache\1b69133eded9ebdaaf1b9c0ec05727fcd183fced\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\edojs\.android\build-cache\11e3cd37e9dfcbe7f98e4ce24f4bd925eb634d7a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\edojs\.android\build-cache\ec2c2500a5cf7c0c4949b72e96cfe96c9c3c8cda\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\edojs\.android\build-cache\e62373edf49cff2ed3d5e252acc380e2e7bbcb00\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\edojs\.android\build-cache\74b590540ae74f33a291333cbffd7e01f0112dda\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\edojs\.android\build-cache\64d7a58cecfccc80923bcea8fc380895df9281f3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\edojs\.android\build-cache\6246201c9bc724c7b90a9bdef7c2d37ec133dcc3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\edojs\.android\build-cache\598a7ce2b68687fb7bbb10d266f56ba243e9296a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\edojs\.android\build-cache\9ff4a18d3a3de10f4df83a3d703c5721845aa885\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\edojs\.android\build-cache\1e55acdd799f191ea94f52619b1dc8fb96b4cb1e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\edojs\.android\build-cache\9c564fa0740014774ab5f09e695509c76ffd5511\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\edojs\.android\build-cache\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\edojs\.android\build-cache\cf3eafac0666ad1b40b5bf218d3cdcf79038fb1f\output\AndroidManifest.xml:26:9-47
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\edojs\.android\build-cache\d1770d397c3058186a926513b62055c3e96c8052\output\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\edojs\.android\build-cache\d1770d397c3058186a926513b62055c3e96c8052\output\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\edojs\.android\build-cache\d1770d397c3058186a926513b62055c3e96c8052\output\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\edojs\.android\build-cache\d1770d397c3058186a926513b62055c3e96c8052\output\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\edojs\.android\build-cache\d1770d397c3058186a926513b62055c3e96c8052\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\edojs\.android\build-cache\d1770d397c3058186a926513b62055c3e96c8052\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\edojs\.android\build-cache\d1770d397c3058186a926513b62055c3e96c8052\output\AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\edojs\.android\build-cache\d1770d397c3058186a926513b62055c3e96c8052\output\AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\edojs\.android\build-cache\d1770d397c3058186a926513b62055c3e96c8052\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] C:\Users\edojs\.android\build-cache\d1770d397c3058186a926513b62055c3e96c8052\output\AndroidManifest.xml:45:13-70
